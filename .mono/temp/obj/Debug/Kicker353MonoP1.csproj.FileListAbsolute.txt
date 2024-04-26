@@ -1,9 +1,0 @@
-D:\dev\Kicker353MonoP1\.mono\temp\bin\Debug\Kicker353MonoP1.dll
-D:\dev\Kicker353MonoP1\.mono\temp\bin\Debug\Kicker353MonoP1.pdb
-D:\dev\Kicker353MonoP1\.mono\temp\obj\Debug\Kicker353MonoP1.csproj.AssemblyReference.cache
-D:\dev\Kicker353MonoP1\.mono\temp\obj\Debug\Kicker353MonoP1.GeneratedMSBuildEditorConfig.editorconfig
-D:\dev\Kicker353MonoP1\.mono\temp\obj\Debug\Kicker353MonoP1.AssemblyInfoInputs.cache
-D:\dev\Kicker353MonoP1\.mono\temp\obj\Debug\Kicker353MonoP1.AssemblyInfo.cs
-D:\dev\Kicker353MonoP1\.mono\temp\obj\Debug\Kicker353MonoP1.csproj.CoreCompileInputs.cache
-D:\dev\Kicker353MonoP1\.mono\temp\obj\Debug\Kicker353MonoP1.dll
-D:\dev\Kicker353MonoP1\.mono\temp\obj\Debug\Kicker353MonoP1.pdb
