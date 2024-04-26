@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://scenes/projectiles/BulletA.cs" type="Script" id=1]
+[ext_resource path="res://assets/images/shoe.png" type="Texture" id=2]
+
+[node name="BulletA" type="Node2D"]
+script = ExtResource( 1 )
+CollisionLayer = 8
+
+[node name="Sprite" type="Sprite" parent="."]
+texture = ExtResource( 2 )
+
+[node name="Timer" type="Timer" parent="."]
+process_mode = 0
+wait_time = 0.27
+one_shot = true
+autostart = true
+
+[connection signal="timeout" from="Timer" to="." method="queue_free"]

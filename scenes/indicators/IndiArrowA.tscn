@@ -1,0 +1,8 @@
+[gd_scene format=2]
+
+[node name="IndiArrowA" type="Node2D"]
+
+[node name="Line2D" type="Line2D" parent="."]
+points = PoolVector2Array( 0, 0, 192, 0, 192, -8, 200, 0, 192, 8 )
+width = 3.0
+default_color = Color( 0.776471, 0.776471, 0.776471, 1 )

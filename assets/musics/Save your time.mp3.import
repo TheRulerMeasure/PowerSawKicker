@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Save your time.mp3-16b09fde1efe2a8c062f7132e73a2862.mp3str"
+
+[deps]
+
+source_file="res://assets/musics/Save your time.mp3"
+dest_files=[ "res://.import/Save your time.mp3-16b09fde1efe2a8c062f7132e73a2862.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
